@@ -46,6 +46,11 @@ Location:   India 🇮🇳
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=3776AB)
 ![Networking](https://img.shields.io/badge/Networking-111111?style=flat-square\&logo=cisco\&logoColor=049FD9)
 
+> connect_with_me
+💼 LinkedIn: Let's connect
+🎯 TryHackMe: View my profile
+💻 GitHub: Explore my repositories
+
 ### `> cat philosophy.txt`
 
 > Every alert tells a story. Every log leaves a clue. Every lab is a lesson.
