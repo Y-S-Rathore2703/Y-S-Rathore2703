@@ -55,6 +55,7 @@ Location   : India 🇮🇳
 * 💼 LinkedIn: [Let's connect](https://www.linkedin.com/in/yuvraj-singh-rathore-327471334/)
 * 🎯 TryHackMe: [View my profile](https://tryhackme.com/p/Y.S.Rathore)
 * 💻 GitHub: [Explore my repositories](https://github.com/Y-S-Rathore2703)
+* 🧩 LeetCode: [View my profile](https://leetcode.com/u/Yuvrajsingh1420/)
 
 ### `> cat philosophy.txt`
 
